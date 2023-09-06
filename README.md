@@ -1,4 +1,3 @@
-### Hi there 👋
 | 这个作业属于哪个课程 | [软件工程](https://edu.cnblogs.com/campus/gdgy/CSGrade21-12) |
 | ----------------- |--------------- |
 | 这个作业要求在哪里| [自我介绍+软工五问](https://edu.cnblogs.com/campus/gdgy/CSGrade21-12/homework/13015)|
